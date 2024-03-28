@@ -32,34 +32,6 @@ I'm always open for work 👍
 <img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
 
-## [Furrany Studio](https://furranystudio.fr)
-
-An Independent Game Development Studio.
-
-Furrany Studio is a small French independent video game development studio created in 2016 by Maxime66410 from France.
-
-As game developers we create what we are passionate about!
-
-We are a small collective of people who make video games.
-
-A small collective wanting to create and tell interesting stories, a story told by our own means.
-
-[Visit Website](https://furranystudio.fr)
-
-## [VRCPicture](https://vrcpicture.com)
-
-VRChat photo sharing website !
-
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/ht1j.svg)](https://betteruptime.com/?utm_source=status_badge)
-
-## Social network
-
-- [LinkedIn](https://www.linkedin.com/in/maxime-sanchez-98837015a/)
-- [Ko-Fi](https://ko-fi.com/maxime66410)
-- [Gumroad](https://furranystudio.gumroad.com)
-- [Twitter](https://twitter.com/Maxime66410)
-
-
 
 <!--
 **Maxime66410/Maxime66410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
