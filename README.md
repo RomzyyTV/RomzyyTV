@@ -2,7 +2,7 @@
 
 ### Indie Game and Open Source Developer 🖥🎮.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxime66410&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Slamyxx&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime66410&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
