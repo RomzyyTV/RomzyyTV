@@ -11,13 +11,11 @@
 
 ## About me
 
-I'm a Game indie French (🇫🇷) developer and I'm 16 years old.
+I'm a French game server scripts developer.
 
-I'm currently a student as a specialized video game developer [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (4 & 5).
+I mainly develop scripts for SCP: Secreate Laboratory using the Exiled API.
 
-I am always motivated to participate in the contribution of any project!
-
-I'm always open for work 👍
+I may not be available often but I can always help. 👍
 
 ### 👩‍💻 EDI Used
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
