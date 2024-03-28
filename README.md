@@ -1,10 +1,10 @@
-# Maxime66410 - Welcome to my Github profile !
+# 15Slamyxx - Welcome to my Github profile !
 
 ### Indie Game and Open Source Developer 🖥🎮.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Slamyxx&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime66410&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxime66410"/> -->
 
