@@ -28,7 +28,7 @@ I'm always open for work 👍
 
 ### ⚙️ Game Engine Used
 
-<img src="https://img.shields.io/badge/Unreal%20Engine%Fornite-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white">
 <img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
 
