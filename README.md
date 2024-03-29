@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-QC&langs_count=10&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&langs_count=10&show_icons=true&theme=radical)]
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxime66410"/> -->
 
