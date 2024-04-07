@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="" target="_blank">
-    <img src="standard.gif" style="width: 100%;" alt="Click to see the source">
+    <img src="standard (1).gif" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
