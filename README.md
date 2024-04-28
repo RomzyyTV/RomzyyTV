@@ -6,13 +6,13 @@
 
 
 
-# 15Slamyxx - Welcome to my Github profile !
+# RomzyyTV - Welcome to my Github profile !
 
 ### Indie Game and Open Source Developer 🖥🎮.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Slamyxx&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomzyyTV&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomzyyTV&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About me
