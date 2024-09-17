@@ -37,6 +37,6 @@ I may not be available often but I can always help 👍
 ### 💻 Information / Discord
 
   <a href="https://discord.com/users/948307385284427818">
-    <img align="right" width="350" src="https://lanyard.kyrie25.me/api/948307385284427818?waveColor=FF597B&waveSpotifyColor=FF597B">
+    <img align="center" width="350" src="https://lanyard.kyrie25.me/api/948307385284427818?waveColor=FF597B&waveSpotifyColor=FF597B">
   </a>
 </div>
