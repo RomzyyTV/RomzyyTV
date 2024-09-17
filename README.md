@@ -35,8 +35,6 @@ I may not be available often but I can always help 👍
 <img src ="https://img.shields.io/badge/Unity-FFF?style=for-the-badge&logo=unity&logoColor=black"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"><img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
 # 💻 Information / Discord
-
-<h2 align="center">🌐 | Discord Activity</h2>
 <div align="center">
     <img src="https://lanyard.kyrie25.me/api/948307385284427818?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
   </a>
