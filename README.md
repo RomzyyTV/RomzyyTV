@@ -38,6 +38,6 @@ I may not be available often but I can always help 👍
 
 <div align="center">
 	<a href="https://discord.com/users/948307385284427818" >  
-  		<img src="https://lanyard.kyrie25.me/api/948307385284427818?imgStyle=square"/>  
+  		<img src="https://lanyard.kyrie25.me/api/948307385284427818?decoration=false&animationDuration=8s&waveColor=#bcbcbc&waveSpotifyColor=6aa84f&imgStyle=square"/>  
 	</a>  
 </div>
