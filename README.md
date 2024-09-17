@@ -38,6 +38,6 @@ I may not be available often but I can always help 👍
 
 <h2 align="center">🌐 | Discord Activity</h2>
 <div align="center">
-    <img src="https://lanyard.kyrie25.me/api/807133944332025916?decoration=false&amp;animationDuration=8s&amp;waveColor=#bcbcbc&amp;waveSpotifyColor=6aa84f&amp;imgStyle=square">
+    <img src="https://lanyard.kyrie25.me/api/948307385284427818?decoration=false&amp;animationDuration=8s&amp;waveColor=#bcbcbc&amp;waveSpotifyColor=6aa84f&amp;imgStyle=square">
   </a>
 </div>
