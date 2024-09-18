@@ -36,6 +36,6 @@ I may not be available often but I can always help 👍
 
 # 💻 Information / Discord
 <div align="center">
-    <img src="https://lanyard.kyrie25.me/api/948307385284427818?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
+    <img src="https://lanyard.kyrie25.me/api/948307385284427818?imgStyle=square&imgBorderRadius=15px">
   </a>
 </div>
