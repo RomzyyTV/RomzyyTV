@@ -39,6 +39,6 @@ I may not be available often but I can always help 👍
 
 # 💻 Information / Discord
 <div align="center">
-    <img src="https://lanyard.kyrie25.me/api/948307385284427818?imgStyle=square&imgBorderRadius=15px">
+    <img src="https://lanyard.kyrie25.me/api/948307385284427818?waveColor=b19bd9&waveSpotifyColor=b19bd9">
   </a>
 </div>
