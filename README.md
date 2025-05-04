@@ -10,7 +10,7 @@
 
 ### Indie Game and Open Source Developer 🖥🎮.
 <div align="center">
-    <img src="  ![](https://komarev.com/ghpvc/?username=RomzyyTV&color=FD6C9E)">
+    <img src="https://komarev.com/ghpvc/?username=RomzyyTV&color=FD6C9E">
   </a>
 </div>
 
