@@ -9,7 +9,9 @@
 # RomzyyTV - Welcome to my Github profile !
 
 ### Indie Game and Open Source Developer 🖥🎮.
-![](https://komarev.com/ghpvc/?username=robocnop&color=FD6C9E)
+<div align="center">
+<size=20pt>![](https://komarev.com/ghpvc/?username=robocnop&color=FD6C9E)</size>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RomzyyTV&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
