@@ -10,7 +10,7 @@
 
 ### Indie Game and Open Source Developer 🖥🎮.
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RomzyyTV&color=FD6C9E">
+    <img src="https://komarev.com/ghpvc/?username=RomzyyTV&c  olor=FD6C9E">
   </a>
 </div>
 
@@ -19,6 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romzyytv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=romzyytv&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt=""  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romzyytv&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomzyyTV&layout=compact&show_icons=true&locale=en" alt="RomzyyTVDev" /></p>
 </div>
 
 
