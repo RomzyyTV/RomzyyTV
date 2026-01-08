@@ -41,8 +41,9 @@ I may not be available often but I can always help 👍
 
 <img src ="https://img.shields.io/badge/Unity-FFF?style=for-the-badge&logo=unity&logoColor=black"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"><img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
-# 💻 Information / Discord
-<div align="center">
-    <img src="https://lanyard.kyrie25.me/api/948307385284427818?waveColor=b19bd9&waveSpotifyColor=b19bd9">
-  </a>
-</div>
+# 💻 Information
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph.svg">
+</picture>
