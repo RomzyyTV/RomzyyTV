@@ -10,15 +10,15 @@
 
 ### Indie Game and Open Source Developer 🖥🎮.
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RomzyyTV&c  olor=FD6C9E">
+    <img src="https://komarev.com/ghpvc/?username=RomzyyTV&color=FD6C9E">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomzyyTV&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romzyytv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RomzyyTV&show_icons=true&theme=tokyonight" height="150" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romzyytv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt=""  />
   <img src="https://streak-stats.demolab.com?user=romzyytv&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt=""  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romzyytv&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romzyytv&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt=""/>
 </div>
 
 
@@ -56,9 +56,12 @@ I'm not always available, but I can always help you 👍
 
 <img src ="https://img.shields.io/badge/Unity-FFF?style=for-the-badge&logo=unity&logoColor=black"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"><img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
-# 💻 Information
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/romzyytv/romzyytv/output/pacman-contribution-graph.svg">
-</picture>
+
+## ⚙️ My Homelab Server
+
+<img src="https://img.shields.io/badge/BIOS-Dell%202.6.1%20(2018)-483D8B?style=for-the-badge&logo=dell&logoColor=white">
+<img src="https://img.shields.io/badge/Motherboard-Dell%2001W23F-6A5ACD?style=for-the-badge&logo=dell&logoColor=white">
+<img src="https://img.shields.io/badge/Server-Dell%20PowerEdge%20R620-EE3124?style=for-the-badge&logo=dell&logoColor=white">
+<img src="https://img.shields.io/badge/Intel-E5--2630%20v2-1E90FF?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-128GB%20DDR3%20ECC-2E8B57?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Storage-3TO%20HDD%20Seagate-8B4513?style=for-the-badge&logoColor=white">
