@@ -30,7 +30,7 @@ I primarily develop scripts in C#, but I also work with React.
 
 I'm not always available, but I can always help you 👍
 
-### 👩‍💻 IDE Used
+## 👩‍💻 IDE Used
 <div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
@@ -40,7 +40,7 @@ I'm not always available, but I can always help you 👍
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
 </div>
 
-### 🚀 Skills
+## 🚀 Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@ I'm not always available, but I can always help you 👍
 </div>
 
 
-### ⚙️ Game / Game Engine Used
+## ⚙️ Game / Game Engine Used
 
 <img src ="https://img.shields.io/badge/Unity-FFF?style=for-the-badge&logo=unity&logoColor=black"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"><img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black">
 
