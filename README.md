@@ -24,11 +24,11 @@
 
 ## About me
 
-I'm a French game server scripts developer.
+I'm a French developer.
 
-I mainly develop scripts for SCP: Secreate Laboratory using the Exiled API.
+I primarily develop scripts in C#, but I also work with React.
 
-I may not be available often but I can always help 👍
+I'm not always available, but I can always help you 👍
 
 ### 👩‍💻 IDE Used
 <div align="center">
