@@ -62,4 +62,11 @@ I'm not always available, but I can always help you 👍
 
 ## 🗄️ My Homelab Server
 
-<img src="https://img.shields.io/badge/BIOS-Dell%202.6.1%20(2018)-483D8B?style=for-the-badge&logo=dell&logoColor=white"> <img src="https://img.shields.io/badge/Motherboard-Dell%2001W23F-6A5ACD?style=for-the-badge&logo=dell&logoColor=white"> <img src="https://img.shields.io/badge/Server-Dell%20PowerEdge%20R620-EE3124?style=for-the-badge&logo=dell&logoColor=white"> <img src="https://img.shields.io/badge/Intel-E5--2630%20v2-1E90FF?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/RAM-128GB%20DDR3%20ECC-2E8B57?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Storage-3TO%20HDD%20Seagate-8B4513?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Server-Dell%20PowerEdge%20R620-EE3124?style=for-the-badge&logo=dell&logoColor=white">
+<img src="https://img.shields.io/badge/CPU-Intel%20Xeon%20E5--2630%20v2-1E90FF?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-128GB%20DDR3%20ECC-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/Storage-3TB%20Seagate%20HDD-8B4513?style=for-the-badge">
+
+## 🌐 Network Homelab
+
+<img src="https://img.shields.io/badge/Switch-Cisco%20SG350--28-00A0D1?style=for-the-badge&logo=cisco&logoColor=white">
